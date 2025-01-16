@@ -1,0 +1,58 @@
+[
+  {
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+    "name": "Apocalypse"
+  },
+  {
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009197",
+    "name": "Blink"
+  },
+  {
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+    "name": "Colossus"
+  },
+  {
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+    "name": "Gambit"
+  },
+  {
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009349",
+    "name": "Holocaust (Age of Apocalypse)"
+  },
+  {
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+    "name": "Magneto"
+  },
+  {
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009447",
+    "name": "Mister Sinister"
+  },
+  {
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+    "name": "Rogue"
+  },
+  {
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010969",
+    "name": "Sabretooth (Age of Apocalypse)"
+  },
+  {
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010975",
+    "name": "Shadowcat (Age of Apocalypse)"
+  },
+  {
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010976",
+    "name": "Silver Samurai (Age of Apocalypse)"
+  },
+  {
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010979",
+    "name": "Storm (Age of Apocalypse)"
+  },
+  {
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009636",
+    "name": "Sunfire"
+  },
+  {
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+    "name": "Wolverine"
+  }
+]
